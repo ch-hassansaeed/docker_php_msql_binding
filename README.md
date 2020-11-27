@@ -20,4 +20,4 @@ NOTE: for test app you need to create a database named "company1", a "users" tab
 
 You can do this in localhost:8080 (or your set post) with "root" as user, "example" as password. "MySQL" selected for the system, and "db" as the server name.
 
-any any issue feel free to ask
+if any issue feel free to ask
